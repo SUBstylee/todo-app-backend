@@ -27,7 +27,7 @@ git clone git@github.com:SUBstylee/todo-app-backend.git
 cd todo-app-backend
 ```
 
-Frontend
+### Frontend
 
 ```bash
 git clone git@github.com:SUBstylee/todo-app-frontend.git
